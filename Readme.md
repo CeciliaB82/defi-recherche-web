@@ -8,9 +8,17 @@ https://home.cern/fr/science/computing/birth-web
  # <p align="center">Question 2 : </P>
 ### <p align="center"> Quels est la différence entre le web et internet ? </P>
 
-Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP et sur laquelle s'appuient de nombreux autres services.
-Le World wide web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
-https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
+Internet est l'infrastructure réseau qui connecte des ordinateurs du monde entier. Son nom vient de "réseaux interconnectés" : INTERconnected NETworks et sa date d'inauguration retenue le plus souvent est le 1er janvier 1983 avec l'apparition du protocole TCI/IP. 
+Le Web, lui, est un service d'échange d'informations pour un plus grand public, apparu en 1991 et qui utilise internet. 
+Le web, c'est une toute petite partie d'internet. 
+
+Internet n'est rien d'autre qu'un réseau de transport de données. 
+Il permet de transporter un paquet de données d'un ordinateur A à un ordinateur B, rien d'autre. 
+
+Le web est construit au dessus d'internet. 
+Il met en oeuvre plein de choses (protocole HTTP, formats HTML, CSS, JPEG...). 
+Le web utilise internet pour transporter les données. 
+https://www.commentcamarche.net/forum/affich-1266760-difference-entre-web-et-internet
 
  # <p align="center">Question 3 : </P>
  
@@ -24,4 +32,8 @@ https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
  # <p align="center">Question 4 : </P>
 <p align="center"> <IMG SRC="http://www.copyrightfrance.com/images/copyright_5.jpg" width=200 height=200</P>
+
+Le copyleft est un moyen de se servir du copyright du programme ; cela ne signifie pas d'abandonner le copyright. En réalité, faire cela rendrait le copyleft impossible. L'idée suggérée par copyleft est donc laisser copier, en opposition avec copyright (droit de reproduction/d'auteur).
+https://fr.wikipedia.org/wiki/Copyleft
+
 
