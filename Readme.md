@@ -23,5 +23,5 @@ https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 127.0.0.1 : En informatique, on travaille souvent en mode client-serveur : une ou plusieurs machines envoient des requêtes à un serveur central1 qui envoie les réponses appropriées. C'est par exemple le cas d’un serveur web ou d’un serveur de bases de données. Lors de la phase de développement d’un programme informatique impliquant des échanges sur un réseau, il n’est pas pour autant nécessaire de disposer de plusieurs machines physiques ni même virtuelles : la même machine physique peut parfaitement héberger le serveur et un ou plusieurs clients, exactement dans les mêmes conditions : en communiquant par des ports. Dans le domaine des réseaux informatiques, localhost (l’hôte local en français) est le nom habituel qui désigne une interface logique de l’ordinateur local. (Source : https://fr.wikipedia.org/wiki/Localhost)
 
  # <p align="center">Question 4 : </P>
-<p align="center">![Image of Yaktocat](http://www.copyrightfrance.com/images/copyright_5.jpg)</P>
+<p align="center"> ![Image of Yaktocat](http://www.copyrightfrance.com/images/copyright_5.jpg) </P>
 
