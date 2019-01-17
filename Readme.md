@@ -37,7 +37,7 @@ https://www.commentcamarche.net/forum/affich-1266760-difference-entre-web-et-int
 Le copyleft est un moyen de se servir du copyright du programme ; cela ne signifie pas d'abandonner le copyright. En réalité, faire cela rendrait le copyleft impossible. L'idée suggérée par copyleft est donc laisser copier, en opposition avec copyright (droit de reproduction/d'auteur).
 https://fr.wikipedia.org/wiki/Copyleft
 
-# <p align="center"> __souligné__Question 5 : </P>
+# <p align="center">Question 5 : </P>
 ### <p align="center">Que sont les Creatives Commons ?</P>
 
 Inspirées par les licences du logiciel libre, les licences Creative Commons ont pour objectif d'encourager la circulation des oeuvres, l'échange et la créativité de manière simple et légale au travers un nouveau cadre juridique. Ce cadre juridique repose sur le choix par les auteurs eux-même d'un certain nombre de droits et d'autorisations sur leurs oeuvres et la possibilité accordée à leurs lecteurs de les utiliser sans autorisation préalable dans le respect des conditions définies. Ces licences, élaborées à l'origine par des juristes anglo-saxons, sont utilisées par des sites comme Wikipedia ou Flickr. Elles sont aujourd'hui reconnues dans plus de 70 pays, dont la France où elles ont été adaptées en droit français en 2004.
