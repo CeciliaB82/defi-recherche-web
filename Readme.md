@@ -21,5 +21,5 @@ Qu’est-ce que cela: - 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1
 127.0.0.1 : En informatique, on travaille souvent en mode client-serveur : une ou plusieurs machines envoient des requêtes à un serveur central1 qui envoie les réponses appropriées. C'est par exemple le cas d’un serveur web ou d’un serveur de bases de données. Lors de la phase de développement d’un programme informatique impliquant des échanges sur un réseau, il n’est pas pour autant nécessaire de disposer de plusieurs machines physiques ni même virtuelles : la même machine physique peut parfaitement héberger le serveur et un ou plusieurs clients, exactement dans les mêmes conditions : en communiquant par des ports. Dans le domaine des réseaux informatiques, localhost (l’hôte local en français) est le nom habituel qui désigne une interface logique de l’ordinateur local. (Source : https://fr.wikipedia.org/wiki/Localhost)
 
 # ° Question 4 :
-![Image of Yaktocat](https://fr.wikipedia.org/wiki/Copyright#/media/File:Copyright.svg)
+![Image of Yaktocat](http://www.copyrightfrance.com/images/copyright_5.jpg)
 kjhfrh
