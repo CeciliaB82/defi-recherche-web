@@ -1,12 +1,12 @@
  # <p align="center"> <U>Question 1 :</U>  :thumbsup: </P>
-## <p align="center">Par qui, quand, pourquoi et où a été inventé Internet?</P>
+### <p align="center">Par qui, quand, pourquoi et où a été inventé Internet ?</P>
 
 Aparnet, invention de l'internet militaire 
 Dès 1962
 https://cultivetoi/savez-vous-quand-internet-ete-cree
 
  # <p align="center">Question 2 : </P>
-## <p align="center"> Quels est la différence entre le web et internet </P>
+### <p align="center"> Quels est la différence entre le web et internet ? </P>
 
 Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP et sur laquelle s'appuient de nombreux autres services.
 Le World wide web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
@@ -14,9 +14,8 @@ https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
  # <p align="center">Question 3 : </P>
  
-  <p align="center"> <img src="http://s.4cdn.org/image/title/105.gif"> </p>
 
-## <p align="center">Qu’est-ce que cela: - 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1 </P>
+### <p align="center">Qu’est-ce que cela: - 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1 ? </P>
 
 8.8.8.8 : Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 20091. (Source : https://fr.wikipedia.org/wiki/Google_Public_DNS)
 192.168.0.1 : Ceci est une adresse IP. Les réseaux IP sont caractérisés par leur indépendance par rapport au matériel et par la possibilité d'établir une communication entre 2 machines situées des réseaux différents (on dit que c'est un protocole "routable"). Ces avantages découlent du mode d'adressage choisi: on affecte à chaque interface une adresse logique découlant de l'adresse du réseau auquel elle est connectée. (Source : http://www.linux-france.org/article/formation/net.html)
