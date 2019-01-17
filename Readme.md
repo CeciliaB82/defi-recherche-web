@@ -13,6 +13,7 @@ Le World wide web, c'est le système qui nous permet de naviguer de pages en pag
 https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
 ### Question 3 :
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Qu’est-ce que cela: - 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1
 
 8.8.8.8 : Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 20091. (Source : https://fr.wikipedia.org/wiki/Google_Public_DNS)
