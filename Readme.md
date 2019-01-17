@@ -1,9 +1,9 @@
- # <p align="center"> <U>Question 1 :</U>  :thumbsup: </P>
+ # <p align="center"> <U>Question 1 :</U> </P>
 ### <p align="center">Par qui, quand, pourquoi et où a été inventé Internet ?</P>
 
-Aparnet, invention de l'internet militaire 
-Dès 1962
-https://cultivetoi/savez-vous-quand-internet-ete-cree
+
+Tim Berners-Lee, chercheur britannique, a inventé le Web au CERN en 1989. À l’origine, le projet, baptisé « World Wide Web », a été conçu et développé pour que des scientifiques travaillant dans des universités et instituts du monde entier puissent s'échanger des informations instantanément.
+https://home.cern/fr/science/computing/birth-web
 
  # <p align="center">Question 2 : </P>
 ### <p align="center"> Quels est la différence entre le web et internet ? </P>
